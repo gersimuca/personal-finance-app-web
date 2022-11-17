@@ -9,6 +9,11 @@ Tech Stack:
 - axios.js
 - lodash
 - moment.js
+- C#
+- .net Core
+- Plaid API
+- Azure Cosmos DB
+- Azure Cloud Apps (Functions, KeyVault, AppService, etc.)
 
 ## Project setup
 ```
