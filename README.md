@@ -9,7 +9,7 @@ Tech Stack:
 - axios.js
 - lodash
 - moment.js
-- C#
+- Java
 - .net Core
 - Plaid API
 - Azure Cosmos DB
