@@ -10,7 +10,7 @@ Tech Stack:
 - lodash
 - moment.js
 - Java
-- .net Core
+- Spring
 - Plaid API
 - Azure Cosmos DB
 - Azure Cloud Apps (Functions, KeyVault, AppService, etc.)
